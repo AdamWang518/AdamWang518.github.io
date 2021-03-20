@@ -1,23 +1,23 @@
 body {
     height: 80px;
-    background: lightgreen;
+    background-color:coral ;
     text-align: center;
 }
 
 @media(min-width: 540px) {
     body {
-        background: lightyellow;
+        background-color: lightyellow;
     }
 }
 
 @media(min-width: 768px) {
     body {
-        background: orange;
+        background-color: orange;
     }
 }
 
 @media(min-width: 920px) {
     body {
-        background: lightpink;
+        background-color: lightpink;
     }
 }
