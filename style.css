@@ -4,19 +4,19 @@ body {
     text-align: center;
 }
 
-@media(max-width: 540px) {
+@media(min-width: 320px) {
     body {
         background-color: lightyellow;
     }
 }
 
-@media(max-width: 768px) {
+@media(min-width: 768px) {
     body {
         background-color: orange;
     }
 }
 
-@media(max-width: 920px) {
+@media(min-width: 920px) {
     body {
         background-color: lightpink;
     }
